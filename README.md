@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellgar246&label=Profile%20views&color=0e75b6&style=flat" alt="fellgar246" /> </p>
 
-- 👨‍💻 My projects are available at [https://felipegarcia.info/](portfolio-felipe-gar2023.vercel.app/)
+- 👨‍💻 My projects are available at [https://felipegarcia.info/](https://portfolio-felipe-gar2023.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
