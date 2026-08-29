@@ -1,34 +1,60 @@
-<h1 align="center">Hi 👋, I'm Felipe García</h1>
-<h3 align="center">A passionate Full-stack web developer and UI Egineer from México</h3>
+# Luis Felipe García
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fellgar246&label=Profile%20views&color=0e75b6&style=flat" alt="fellgar246" /> </p>
+**AI Engineer & Fullstack Developer** · Mexico City (CST — overlaps US time zones)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis-felipe-garciarom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-felipe-garciarom/" height="30" width="40" /></a>
-</p>
+I build and operate AI systems that survive contact with real users. My focus is the part that decides whether an agent actually works in production: reproducible evaluation, LLM tracing and observability, guardrails, human-in-the-loop review, and cost and latency control.
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-	<tr>
-		<td><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
-		<td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
-		<td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-		<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-		<td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-		<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-		<td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-		<td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-		<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-		<td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-		<td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-		<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-		<td><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a></td>
-		<td><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
-		<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-		<td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a></td>
-	</tr>
-</table>
+Backed by 3 years of fullstack engineering in Python, TypeScript and Go — owning features end to end, from scope definition with Product through architecture decisions, implementation and code review — and 5 prior years in data analysis and project management that shape how I frame technical work against business constraints.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellgar246&show_icons=true&locale=en" alt="fellgar246" /></p>
+[felipegarcia.info](https://felipegarcia.info/) · [LinkedIn](https://www.linkedin.com/in/luis-felipe-garciarom/) · fell.gar20@gmail.com
+
+---
+
+## Selected work
+
+### [OpsPilot AI](https://github.com/fellgar246/project-opspilot-nextjs-fastapi) — incident investigation agent with evaluation gates
+Agents that look correct in a demo fail on ambiguous or adversarial input, and without evaluation there is no way to know when a change makes them worse.
+
+A human-in-the-loop agent that investigates incidents, proposes hypotheses and drafts postmortems — gated by a reproducible evaluation suite of 30+ cases covering ambiguous signals, insufficient evidence, undeterminable root cause and prompt injection. Every change is measured against the same gate before it ships, every agent decision is traceable end to end, and approvals stay with a human.
+
+`Python` `FastAPI` `LangGraph` `Langfuse` `Next.js` `Docker` `OpenTelemetry` `Prometheus` `Grafana` `Loki`
+
+### [LegalMove Pro](https://github.com/fellgar246/legalmove-pro) — AI contract amendment review · live public demo
+Reviewing a contract amendment against its original is slow, manual and easy to get wrong — but a model's output cannot be trusted as a final legal answer.
+
+An asynchronous pipeline that compares both documents and returns structured changes, risk flags and human-review recommendations, with a queue-based worker and infrastructure defined in Terraform. Designed to route its output to human review rather than replace it, and deployed publicly with a mock mode that keeps the demo reproducible at zero model cost.
+
+`Go` `Next.js` `PostgreSQL` `Azure Container Apps` `Blob Storage` `Service Bus` `Terraform` `OpenAI`
+
+### [FitTrack AI](https://github.com/fellgar246/project-fittrack-ai) — AI recommendations in a deployed cloud-native app
+Shipping AI features means running them safely: persisted model output, private user data, and infrastructure that can be rebuilt on demand.
+
+A full-stack application with persisted Azure OpenAI recommendations and direct-to-storage uploads secured by short-lived user-delegation SAS tokens. 100 backend and 319 client tests run in CI, with infrastructure managed through Terraform and OIDC-authenticated deployments.
+
+`Python` `FastAPI` `Flutter` `Azure OpenAI` `Azure Container Apps` `Terraform` `GitHub Actions (OIDC)`
+
+---
+
+## Stack
+
+**AI Engineering** — LangGraph, LangChain, Langfuse, RAG, agent design, human-in-the-loop workflows, LLM evaluation suites, tracing and observability, guardrails, prompt engineering, structured outputs, cost and latency control
+
+**Languages** — Python, TypeScript, Go, SQL
+
+**Backend** — FastAPI, Node.js, REST APIs, event-driven architecture, PostgreSQL, DynamoDB, Redis
+
+**Frontend** — React, Next.js, Vue, Jest, Vitest
+
+**Cloud & Infrastructure** — AWS (Lambda, SQS, DynamoDB), Azure (Container Apps, Blob Storage, Service Bus), Docker, Terraform, GitHub Actions, CI/CD
+
+**Observability** — OpenTelemetry, Prometheus, Grafana, Loki
+
+---
+
+## Currently
+
+Fullstack Developer at **Kunzapp**, building Go services and event-driven AWS workflows, and maintaining a Vue Chrome extension with 1,000+ active users.
+
+Open to AI Engineering roles — remote or Mexico City, US time zones.
+
+Spanish (native) · English (C1)
