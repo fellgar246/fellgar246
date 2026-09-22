@@ -6,7 +6,7 @@ I build and operate AI systems that survive contact with real users. My focus is
 
 Backed by 3 years of fullstack engineering in Python, TypeScript and Go — owning features end to end, from scope definition with Product through architecture decisions, implementation and code review — and 5 prior years in data analysis and project management that shape how I frame technical work against business constraints.
 
-[felipegarcia.info](https://felipegarcia.info/) · [LinkedIn](https://www.linkedin.com/in/luis-felipe-garciarom/) · fell.gar20@gmail.com
+[feligarcia.site](https://www.feligarcia.site/) · [LinkedIn](https://www.linkedin.com/in/luis-felipe-garciarom/) · fell.gar20@gmail.com
 
 ---
 
